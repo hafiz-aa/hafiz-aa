@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafiz-aa
 - 👀 I’m interested in Data Scientist and Web Programming
 - 🌱 I’m currently learning SQL, Python, Javascript, Vue
-- 💞️ I’m looking to collaborate on Data Scientist / Analytic project
+- 💞️ I’m looking to collaborate on Data Scientist / Analytic / Web project
 - 📫 How to reach me https://www.linkedin.com/in/mhafiz-aa/
 
 <!---
